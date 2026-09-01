@@ -1,6 +1,5 @@
 # flask-voting-app
 Hero vired Flask Assignment
-
 Flask Voting Application – Khaja Nawaz Shaik Project Documentation
 This documentation is prepared based on the Flask Application with Git Versioning Workflow assignment. It provides the content to use in the project's README.md file.
 1. Project Title and Description
@@ -121,4 +120,3 @@ After taking the screenshots, save them inside the screenshots folder and embed 
 •	Version 2 is developed in dev and merged into main.
 •	README.md contains all required sections.
 •	All three required screenshots are embedded in README.md.
-
